@@ -1,4 +1,4 @@
-📒[我的计算机学习笔记库](https://zjrwtx.github.io/zjrwtxdeblog/)		
+📒[我的计算机学习笔记库](https://zjrwtx.github.io/mycsnotes/)		
 
 🌐[我的常用或推荐软件库]()		
 
